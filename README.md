@@ -6,7 +6,7 @@ I enjoy exploring modern DevOps tools like Docker, GitHub Actions, and Linux, fo
 
 ---
 
-### 🧩 Tech Interests  
+### 🧭 Learning & Practicing
 `Docker` `Linux` `GitHub Actions` `CI/CD Pipelines` `Terraform` `AWS` `Python` `Automation`
 
 ---
