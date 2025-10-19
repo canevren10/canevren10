@@ -13,7 +13,7 @@ I enjoy exploring modern DevOps tools like Docker, GitHub Actions, and Linux, fo
 
 ### 🧰 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,aws,terraform,python,php,mysql,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,aws,terraform,python,php,mysql,html,css,bootstrap" />
 </p>
 
 ---
