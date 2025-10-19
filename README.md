@@ -6,12 +6,12 @@ I enjoy exploring modern DevOps tools like Docker, GitHub Actions, and Linux, fo
 
 ---
 
-### 🧭 Learning & Practicing
+### 🧩 Tech Interests
 `Docker` `Linux` `GitHub Actions` `CI/CD Pipelines` `Terraform` `AWS` `Python` `Automation`
 
 ---
 
-### 🧰 Tech Stack  
+### 🧭 Learning & Practicing 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,aws,terraform,python,php,mysql,html,css,bootstrap" />
 </p>
