@@ -1,4 +1,4 @@
-![CI Build & Test](https://github.com/<kullanici>/<repo>/actions/workflows/main.yml/badge.svg)
+
 
 # 👋 Hi, I'm Can Evren  
 
