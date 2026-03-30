@@ -30,8 +30,7 @@ I am a passionate **Software Developer** based in **Germany**, currently doing m
 
 ---
 
-### 📊 GitHub Activity
-![Can's GitHub stats](https://github-readme-stats.vercel.app/api?username=canevren10&show_icons=true&theme=dark&hide_border=true)
+
 
 ---
 
